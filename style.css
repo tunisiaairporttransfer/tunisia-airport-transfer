@@ -1,3 +1,4 @@
+
 :root {
   --navy: #0b1b33;
   --navy-light: #142a4a;
@@ -77,7 +78,7 @@ nav ul li a:hover { color: var(--gold); }
 .hero {
   padding: 150px 0;
   text-align: center;
-  background: linear-gradient(rgba(11, 27, 51, 0.6), rgba(11, 27, 51, 0.6)), url('../images/uWZlL6UoWs34.jpg');
+  background: linear-gradient(rgba(11, 27, 51, 0.6), rgba(11, 27, 51, 0.6)), url('uWZlL6UoWs34.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
